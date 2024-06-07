@@ -60,12 +60,10 @@ main {
     border-radius: 10px;
 }
 
-.service img {
-    max-width: 100%;
+img {
+    max-width: 100px; 
     height: auto;
     border-radius: 5px;
-    float: left;
-    margin-right: 20px;
 }
 
 .service h2 {
@@ -95,7 +93,8 @@ aside {
 }
 
 .benefits img {
-    max-width: 80px;
+    max-width: 80px; 
+    height: auto;
     margin-bottom: 10px;
 }
 
